@@ -1,0 +1,7 @@
+[Activity]
+name = fantascar
+activity_version = 1
+service_name = org.laptop.fantascar
+class = JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
